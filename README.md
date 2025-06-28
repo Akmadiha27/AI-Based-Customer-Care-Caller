@@ -1,3 +1,3 @@
 # AI-Based-Customer-Care-Caller
 
-Currently working on this amazing idea, will be uploading the project soon!
+Trying to convert this project in the Business Model and hence code was removed !
